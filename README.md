@@ -1,0 +1,1 @@
+<p>As part of the <strong>Data Structures and Algorithms course</strong>, we completed the <em>second part of the first project</em>, titled <strong>"HIGHWAY DISTANCE CALCULATIONS."</strong> The project was conducted <em>with a group of two people</em>. The <strong>details</strong> and the <strong>report</strong> are available in <em>separate Word documents</em>.</p>
